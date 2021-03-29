@@ -5,6 +5,7 @@
 - [Sistem Informasi dalam Bisnis](#sistem-informasi-dalam-bisnis)
   - [Daftar Isi](#daftar-isi)
   - [Pendahuluan](#pendahuluan)
+  - [Pengertian Sistem Informasi](#pengertian-sistem-informasi)
 
 ## Pendahuluan
 
@@ -17,3 +18,7 @@ Permasalahan yang sering dihadapi berbagai perusahaan adalah bagaimana mengoptim
 3. mendapatkan tingkat pengembalian yang layak atas investasi tersebut.
 
 Peran teknologi informasi dalam mengubah bisnis tidak hanya terjadi dalam perusahaan besar. Bisnis skala mikro, kecil, dan menengah juga mendapat manfaat dari perkembangan teknologi informasi. Di awal tahun dekade 2000-2010, banyak pengusaha meubel skala menengah di Jawa Tengah dan Daerah Istimewa Yogyakarta sudah mampu melakukan ekspor dan melakukan komunikasi bisnis dengan pembeli di luar negeri hanya berbekal email (Sarosa & Zowghi, 2003).
+
+## Pengertian Sistem Informasi
+
+[Kegiatan Belajar 1: Pengertian Sistem Informasi](kb-01/README.md)
