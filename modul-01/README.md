@@ -21,4 +21,4 @@ Peran teknologi informasi dalam mengubah bisnis tidak hanya terjadi dalam perusa
 
 ## Pengertian Sistem Informasi
 
-[Kegiatan Belajar 1: Pengertian Sistem Informasi](kb-01/README.md)
+[Kegiatan Belajar 1: Pengertian Sistem Informasi](kb-01.md)
