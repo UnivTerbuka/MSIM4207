@@ -7,6 +7,7 @@
   - [Pendahuluan](#pendahuluan)
   - [Pengertian Sistem Informasi](#pengertian-sistem-informasi)
   - [Peran Sistem Informasi dalam Transformasi Bisnis](#peran-sistem-informasi-dalam-transformasi-bisnis)
+  - [Pendekatan Sosio-Teknikal](#pendekatan-sosio-teknikal)
 
 ## Pendahuluan
 
@@ -27,3 +28,7 @@ Peran teknologi informasi dalam mengubah bisnis tidak hanya terjadi dalam perusa
 ## Peran Sistem Informasi dalam Transformasi Bisnis
 
 [Kegiatan Belajar 2: Peran Sistem Informasi dalam Transformasi Bisnis](kb-02.md)
+
+## Pendekatan Sosio-Teknikal
+
+[Kegiatan Belajar 3: Pendekatan Sosio-Teknikal](kb-03.md)
