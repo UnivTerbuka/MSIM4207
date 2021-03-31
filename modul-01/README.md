@@ -32,3 +32,7 @@ Peran teknologi informasi dalam mengubah bisnis tidak hanya terjadi dalam perusa
 ## Pendekatan Sosio-Teknikal
 
 [Kegiatan Belajar 3: Pendekatan Sosio-Teknikal](kb-03.md)
+
+***
+
+Selanjutnya [Kegiatan Belajar 1: Pengertian Sistem Informasi](kb-01.md)
