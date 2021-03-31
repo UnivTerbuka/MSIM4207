@@ -6,6 +6,7 @@
   - [Daftar Isi](#daftar-isi)
   - [Pendahuluan](#pendahuluan)
   - [Pengertian Sistem Informasi](#pengertian-sistem-informasi)
+  - [Peran Sistem Informasi dalam Transformasi Bisnis](#peran-sistem-informasi-dalam-transformasi-bisnis)
 
 ## Pendahuluan
 
@@ -22,3 +23,7 @@ Peran teknologi informasi dalam mengubah bisnis tidak hanya terjadi dalam perusa
 ## Pengertian Sistem Informasi
 
 [Kegiatan Belajar 1: Pengertian Sistem Informasi](kb-01.md)
+
+## Peran Sistem Informasi dalam Transformasi Bisnis
+
+[Kegiatan Belajar 2: Peran Sistem Informasi dalam Transformasi Bisnis](kb-02.md)
