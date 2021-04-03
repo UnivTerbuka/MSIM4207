@@ -16,19 +16,19 @@ Peran teknologi informasi dalam mengubah bisnis tidak hanya terjadi dalam perusa
 
 [Pengertian Sistem Informasi](kb-01.md)
 
-## Kegiatan Belajar 2
+### Kegiatan Belajar 2
 
 [Peran Sistem Informasi dalam Transformasi Bisnis](kb-02.md)
 
-## Kegiatan Belajar 3
+### Kegiatan Belajar 3
 
 [Pendekatan Sosio-Teknikal](kb-03.md)
 
-## Glosarium
+### Glosarium
 
 [Glosarium](glosarium.md)
 
-## Daftar Pustaka
+### Daftar Pustaka
 
 [Daftar Pustaka](daftar-pustaka.md)
 
