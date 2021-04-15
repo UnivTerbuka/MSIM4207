@@ -23,7 +23,7 @@ Ketujuh konsep di atas saling terkait satu sama lain, sehingga Anda harus mempel
 Untuk mempermudah Anda mempelajari materi tersebut, buku materi pokok ini dikemas dalam 9 (sembilan) modul dengan susunan sebagai berikut.
 
 - [Modul 1.  Sistem Informasi dalam Bisnis](M1/README.md)
-- Modul 2.  Sistem Informasi untuk Bisnis: Kolaborasi dan Strategi
+- [Modul 2.  Sistem Informasi untuk Bisnis: Kolaborasi dan Strategi](M2/README.md)
 - Modul 3.  Permasalan Sosial dan Etika pada Sistem Informasi
 - Modul 4.  Infrastruktur Teknologi Informasi
 - Modul 5.  Keamanan Sistem Informasi
